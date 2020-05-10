@@ -1,11 +1,11 @@
 {
-  "base_url": "/user/testsdata-tests-g8jj9xkc/",
+  "base_url": "/user/testsdata-tests-jxp8lab3/",
   "hostname": "0.0.0.0",
   "notebook_dir": "/home/jovyan",
   "password": false,
   "pid": 1,
   "port": 8888,
   "secure": false,
-  "token": "C6--SdtPQrqFSOd7feDTXw",
-  "url": "http://0.0.0.0:8888/user/testsdata-tests-g8jj9xkc/"
+  "token": "oymVHvqiTkyr3PRDfenGqQ",
+  "url": "http://0.0.0.0:8888/user/testsdata-tests-jxp8lab3/"
 }
